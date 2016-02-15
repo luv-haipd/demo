@@ -1,4 +1,4 @@
-Array
+TestArray
 (
     [p] => 1
     [st] => 1
