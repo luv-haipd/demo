@@ -116,7 +116,7 @@
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "test",
 	"build_system_choices":
 	[
 	],
