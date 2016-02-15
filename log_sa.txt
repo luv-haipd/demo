@@ -2,10 +2,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /
     [qs] => 
-    [rf] => http://kj.kyujin.com/kanto/p13-page1.html
+    [rf] => http://kj.haipd.com/kanto/p13-page1.html
     [id1] => G2
     [id2] => 
     [uid] => blank
@@ -15,10 +15,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index
-    [rf] => http://kj.kyujin.com/
+    [rf] => http://kj.haipd.com/
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -28,10 +28,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /tohoku/p1.html
     [qs] => ?re-search=1
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_index
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_index
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -41,10 +41,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_apply_confirm&adv_id=19563&dep_id=446551&entryapply=1&code=prio_2_6
-    [rf] => https://kj.kyujin.com/tohoku/p1.html?re-search=1
+    [rf] => https://kj.haipd.com/tohoku/p1.html?re-search=1
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -54,10 +54,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_apply_apply
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_apply_confirm&adv_id=19563&dep_id=446551&entryapply=1&code=prio_2_6
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_apply_confirm&adv_id=19563&dep_id=446551&entryapply=1&code=prio_2_6
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -67,10 +67,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /detail/6074/19831/446788.html
     [qs] => 
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_apply_apply
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_apply_apply
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -80,10 +80,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_apply_confirm&adv_id=19831&dep_id=446788&entryapply=1&code=top
-    [rf] => https://kj.kyujin.com/detail/6074/19831/446788.html
+    [rf] => https://kj.haipd.com/detail/6074/19831/446788.html
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -93,10 +93,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_apply_apply
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_apply_confirm&adv_id=19831&dep_id=446788&entryapply=1&code=top
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_apply_confirm&adv_id=19831&dep_id=446788&entryapply=1&code=top
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -106,10 +106,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /detail/5014/19563/446551.html
     [qs] => 
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_apply_apply
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_apply_apply
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -119,7 +119,7 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index&
     [rf] => 
@@ -132,7 +132,7 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index&
     [rf] => 
@@ -145,10 +145,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index&region=kanto
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_index&
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_index&
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -158,10 +158,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index&region=tokai
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_index&region=kanto
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_index&region=kanto
     [id1] => G2
     [id2] => 
     [uid] => 341114
@@ -171,10 +171,10 @@ Array
 (
     [p] => 1
     [st] => 1
-    [h] => kj.kyujin.com
+    [h] => kj.haipd.com
     [sn] => /kj/
     [qs] => ?act=consumer_mypage_index&region=tohoku
-    [rf] => https://kj.kyujin.com/kj/?act=consumer_mypage_index&region=tokai
+    [rf] => https://kj.haipd.com/kj/?act=consumer_mypage_index&region=tokai
     [id1] => G2
     [id2] => 
     [uid] => 341114
